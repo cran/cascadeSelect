@@ -1,0 +1,53 @@
+.oi::before,
+[class^="oi-"]::before,
+[class*=" oi-"]::before {
+  display: inline-block;
+  line-height: 1;
+  vertical-align: -.125em;
+}
+
+.oi-c::before {
+  content: url(./svg/c.svg);
+}
+.oi-cabal::before {
+  content: url(./svg/cabal.svg);
+}
+.oi-cpp::before {
+  content: url(./svg/cpp.svg);
+}
+.oi-css::before {
+  content: url(./svg/css.svg);
+}
+.oi-excel::before {
+  content: url(./svg/excel.svg);
+}
+.oi-haskell::before {
+  content: url(./svg/haskell.svg);
+}
+.oi-html::before {
+  content: url(./svg/html.svg);
+}
+.oi-javascript::before {
+  content: url(./svg/javascript.svg);
+}
+.oi-json::before {
+  content: url(./svg/json.svg);
+}
+.oi-julia::before {
+  content: url(./svg/julia.svg);
+}
+.oi-license::before {
+  content: url(./svg/license.svg);
+}
+.oi-markdown::before {
+  content: url(./svg/markdown.svg);
+}
+.oi-python::before {
+  content: url(./svg/python.svg);
+}
+.oi-r::before {
+  content: url(./svg/r.svg);
+}
+.oi-yaml::before {
+  content: url(./svg/yaml.svg);
+}
